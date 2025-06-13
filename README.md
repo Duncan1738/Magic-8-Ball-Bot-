@@ -24,5 +24,5 @@ Get your token from the Discord Developer Portal
 This project is licensed under the MIT License.
 
 Author
-Duncan Kibet
+
 
