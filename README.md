@@ -25,4 +25,4 @@ This project is licensed under the MIT License.
 
 Author
 Duncan Kibet
-PhD Student in Big Data & Industrial Engineering at Chosun University
+
