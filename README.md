@@ -20,8 +20,7 @@ pip install discord.py
 Get your token from the Discord Developer Portal
 
 ---
-
-This project is licensed under the MIT License.
+ licensed under the MIT License.
 
 
 
